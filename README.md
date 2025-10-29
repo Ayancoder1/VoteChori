@@ -13,6 +13,8 @@ It allows an owner to create and manage elections by adding candidates, starting
 ---
 <img width="1562" height="845" alt="Screenshot 2025-10-29 141242" src="https://github.com/user-attachments/assets/b3a4499e-78c5-469a-ade3-3f4e445119ce" />
 
+Contract details: [0x26393b3A6C727EAb7699A7fE9362440f9e759818](https://celo-sepolia.blockscout.com/address/0x26393b3A6C727EAb7699A7fE9362440f9e759818?tab=contract_source_code)
+Transaction details: https://celo-sepolia.blockscout.com/tx/0x100cca7d6c3b6573f4025fa79bf3dc8a6eff8e509c95fa4907f5619424684f28
 
 ### ⚙️ Features
 
