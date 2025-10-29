@@ -10,6 +10,8 @@ Here’s a clean and professional **README.md** file for your **VoteChuri** dece
 It allows an owner to create and manage elections by adding candidates, starting and ending voting sessions, and letting participants vote securely using their wallet addresses.
 
 ---
+<img width="1562" height="845" alt="Screenshot 2025-10-29 141242" src="https://github.com/user-attachments/assets/317bbf11-739f-491d-8fe1-0b07e0fca799" />
+
 
 ### ⚙️ Features
 
